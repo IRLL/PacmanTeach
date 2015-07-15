@@ -1,0 +1,15 @@
+Down LEFT
+Right DOWN
+Right DOWN
+Right RIGHT
+Fin
+Left UP
+Down LEFT
+Up DOWN
+Up LEFT
+Right DOWN
+Left RIGHT
+Left DOWN
+Right LEFT
+Up LEFT
+Down DOWN
